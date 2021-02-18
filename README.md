@@ -18,6 +18,7 @@ Durante o desenvolvimento do projeto, aprendi e pratiquei as seguintes linguagen
 O projeto está disponível no seguinte link:
 Para entrar no sistema e receber a permissão para efetuar as operações do CRUD, façao login com a conta a seguir:
 > EMAIL: 
+
 > SENHA:
 
 #  Licença :bookmark_tabs:
