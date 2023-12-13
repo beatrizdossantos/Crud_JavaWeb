@@ -14,13 +14,6 @@ Durante o desenvolvimento do projeto, aprendi e pratiquei as seguintes linguagen
 * **Conexão com Banco de Dados MySQL**
 * **Como realizar as operações CRUD em JAVA**
 
-# Como acessar :link:
-O projeto está disponível no seguinte link:
-Para entrar no sistema e receber a permissão para efetuar as operações do CRUD, façao login com a conta a seguir:
-> EMAIL: 
-
-> SENHA:
-
 #  Licença :bookmark_tabs:
 
 Esse projeto está sob a licença MIT. Veja o arquivo  [LICENSE](https://github.com/beatrizdossantos/Crud_JavaWeb/blob/main/LICENSE) para mais detalhes.
